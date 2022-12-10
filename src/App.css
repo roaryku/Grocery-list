@@ -10,6 +10,7 @@ body {
 }
 
 .crossed{
+  text-decoration: line-through 2px red;
   text-decoration-line: line-through 2px red;
   -webkit-text-decoration-line: line-through;
   text-decoration-color: red;
